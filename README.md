@@ -9,92 +9,40 @@ Aquest repositori recull materials didàctics, guies visuals i activitats pràct
 🎯 **Objectius del repositori**
 
 * Introduir la programació en blocs horitzontals (Scratch Jr.) i verticals (Scratch).
-
-
 * Ajudar a identificar els elements clau: personatges, escenaris i categories de blocs.
-
-
 * Fomentar el disseny d'algorismes lògics mitjançant seqüències d'instruccions.
-
-
 * Oferir pautes d'avaluació clares mitjançant rúbriques adaptades a cada nivell.
-
-
 
 📂 **Estructura del repositori**
 
-* **/scratch-jr (Cicle Inicial)**
-* Guia de l'interfície i l'editor de pintura.
-
-
-* Explicació de les categories de blocs (esdeveniments, moviment, aspecte, so, control i finalització).
-
-
-* Sèrie de 9 reptes progressius per a l'alumnat.
-
-
-
-
-* **/scratch (Cicle Mitjà)**
-* Manual de l'entorn de treball i àrea de programació.
-
-
-* Guies d'experimentació per a blocs de moviment, aspecte, so, esdeveniment i control.
-
-
-* Sèrie de 10 reptes per consolidar l'aprenentatge.
-
-
-
-
-* **/avaluacio**
-* Rúbriques detallades per a projectes finals amb criteris de 1 a 4 punts.
-
-
-* Requisits tècnics per a les activitats (ús de missatges, canvis de mida, bucles, etc.).
-
-
-
-
-* **/recursos-imprimibles**
-* Pòsters en format A3, cartes de blocs (A8) i reptes preparats per a l'aula.
-
-
-
-
+* **/presentacions**
+* Apartats:
+  * **Interfície**
+  * *Guia de l'interfície i l'editor de pintura.
+  * *Explicació de les categories de blocs (esdeveniments, moviment, aspecte, so, control i finalització).
+  * **Reptes**
+  * *Sèrie de 9 reptes progressius per a l'alumnat.
+  * *Manual de l'entorn de treball i àrea de programació.
+  * *Guies d'experimentació per a blocs de moviment, aspecte, so, esdeveniment i control.
+  * Sèrie de 10 reptes per consolidar l'aprenentatge.
+  * **Avaluació**
+    * Rúbriques detallades per a projectes finals amb criteris de 1 a 4 punts.
+    * Requisits tècnics per a les activitats (ús de missatges, canvis de mida, bucles, etc.).
 
 🚀 **Com començar**
 
-1. 
-**Explora l'interfície:** Revisa les guies visuals per conèixer on es troben els personatges, els fons i la zona de programació.
-
-
-2. 
-**Supera els reptes:** Comença pels reptes bàsics (1-3) abans de passar a la programació de missatges o bucles.
-
-
-3. 
-**Crea la teva història:** Utilitza la guia de requisits per assegurar-te que el teu projecte inclou tots els elements necessaris (títol, 2-3 personatges, moviment i repetició).
-
-
-4. 
-**Avalua el procés:** Utilitza les rúbriques per comprovar el nivell d'assoliment dels objectius.
-
-
+1. **Explora l'interfície:** Revisa les guies visuals per conèixer on es troben els personatges, els fons i la zona de programació.
+2. **Supera els reptes:** Comença pels reptes bàsics (1-3) abans de passar a la programació de missatges o bucles.
+3. **Crea la teva història:** Utilitza la guia de requisits per assegurar-te que el teu projecte inclou tots els elements necessaris (títol, 2-3 personatges, moviment i repetició).
+4. **Avalua el procés:** Utilitza les rúbriques per comprovar el nivell d'assoliment dels objectius.
 
 🧑‍🏫 **Per a docents**
 
 El repositori inclou recursos específics per facilitar la tasca educativa:
 
 * Enllaços per al registre docent a Scratch i videotutorials en català.
-
-
 * Guies de trucs i consells per a la resolució de problemes comuns.
-
-
 * Criteris d'avaluació (NM, A, N, E) per a una correcció objectiva dels projectes.
-
-
 
 📄 **Llicència**
 
