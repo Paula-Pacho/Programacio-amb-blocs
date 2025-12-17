@@ -2,7 +2,7 @@
 
 Manuals de formació, reptes i recursos per a Scratch Jr. i Scratch 3.0.
 
-# 🐱 Recursos Pedagògics per a la Programació a Primària
+# 🐱 Recursos Pedagògics per a la Programació en Blocs a Primària
 
 Aquest repositori recull materials didàctics, guies visuals i activitats pràctiques per facilitar l'ensenyament de la programació per blocs a les etapes de **Cicle Inicial** i **Cicle Mitjà**. L'objectiu és proporcionar eines tant per a docents com per a alumnes per crear històries interactives i jocs.
 
