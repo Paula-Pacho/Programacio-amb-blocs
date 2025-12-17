@@ -18,13 +18,14 @@ Aquest repositori recull materials didàctics, guies visuals i activitats pràct
 * **/presentacions**
 * Apartats:
   * **Interfície**
-  * *Guia de l'interfície i l'editor de pintura.
-  * *Explicació de les categories de blocs (esdeveniments, moviment, aspecte, so, control i finalització).
+   * Guia de l'interfície i l'editor de pintura.
+   * Explicació de les categories de blocs (esdeveniments, moviment, aspecte, so, control i finalització).
+   * Manual de l'entorn de treball i àrea de programació.
+   * Guies d'experimentació per a blocs de moviment, aspecte, so, esdeveniment i control.
+     
   * **Reptes**
-  * *Sèrie de 9 reptes progressius per a l'alumnat.
-  * *Manual de l'entorn de treball i àrea de programació.
-  * *Guies d'experimentació per a blocs de moviment, aspecte, so, esdeveniment i control.
-  * Sèrie de 10 reptes per consolidar l'aprenentatge.
+   * Sèrie de 9/10 reptes progressius per a l'alumnat. (FONT: https://projectes.xtec.cat/pensament-computacional/inici/programacio/scratchjr2/ i https://www.scratchfoundation.org/learn/learning-library)
+     
   * **Avaluació**
     * Rúbriques detallades per a projectes finals amb criteris de 1 a 4 punts.
     * Requisits tècnics per a les activitats (ús de missatges, canvis de mida, bucles, etc.).
