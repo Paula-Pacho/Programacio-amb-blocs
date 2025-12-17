@@ -44,6 +44,7 @@ El repositori inclou recursos específics per facilitar la tasca educativa:
 * Enllaços per al registre docent a Scratch i videotutorials en català.
 * Guies de trucs i consells per a la resolució de problemes comuns.
 * Criteris d'avaluació (NM, A, N, E) per a una correcció objectiva dels projectes.
+  
 
 📄 **Llicència**
 
